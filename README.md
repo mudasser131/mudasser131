@@ -2,8 +2,6 @@
 
 I'm an experienced **Full Stack Developer** based in **Hyderabad**, specializing in building dynamic and responsive web applications. Passionate about leveraging technology to enhance user experiences and deliver scalable solutions.
 
-![Developer Banner](https://media.giphy.com/media/MD0svLSDeudszrNrp0/giphy.gif?cid=790b76113zf884tk6s19oc37oa149ta2d4jyx3xugob985ob&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
 ---
 
 ## 🚀 About Me
