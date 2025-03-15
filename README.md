@@ -11,8 +11,6 @@ I'm an experienced **Full Stack Developer** based in **Hyderabad**, specializing
 - 🎯 Dedicated to creating responsive and engaging user interfaces using **Tailwind CSS, Bootstrap, Shadcn, and DaisyUI**
 - 🚀 Skilled in **Next.js** for modern web application development
 - 📊 Strong understanding of **version control** with Git and GitHub
-- 💪 Always exploring emerging technologies to stay ahead in the field
-
 ---
 
 ## 🛠️ Tech Stack
@@ -34,7 +32,6 @@ I'm an experienced **Full Stack Developer** based in **Hyderabad**, specializing
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
 </p>
 
 ### ⚙️ Tools & Platforms
