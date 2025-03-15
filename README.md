@@ -34,6 +34,7 @@ I'm an experienced **Full Stack Developer** based in **Hyderabad**, specializing
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
 </p>
 
 ### ⚙️ Tools & Platforms
@@ -49,7 +50,5 @@ I'm an experienced **Full Stack Developer** based in **Hyderabad**, specializing
 
 ## 🌐 Let's Connect!
 - 📧 Email: [khajashija@gmail.com](mailto:khajashija@gmail.com)
+- 📞 Mobile: +91 7702937142
 - 💼 [LinkedIn](https://www.linkedin.com/in/shija5/)
-- 🔜 [GitHub](https://github.com/mudasser131)
-
-
