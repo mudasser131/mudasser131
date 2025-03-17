@@ -6,7 +6,7 @@ Full Stack Developer from **Hyderabad**, crafting efficient and scalable web sol
 
 ## 🚀 About Me
 - Proficient in **JavaScript, React.js, Node.js, and Express.js**
-- Experienced with **MongoDB, MySQL, SQLite**, and API development
+- Experienced with **MongoDB, MySQL**, and API development
 - Passionate about responsive design using **Tailwind CSS, Bootstrap, Shadcn, and DaisyUI**
 - Exploring modern web development with **Next.js**
 - Skilled in **version control** with Git and GitHub
