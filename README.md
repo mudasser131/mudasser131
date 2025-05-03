@@ -4,9 +4,9 @@ Full Stack Developer based in **Hyderabad**, specializing in building modern and
 
 ## 🛠️ Tech Stack
 
-- **Languages & Frameworks**: JavaScript, React.js, Node.js, Express.js
+- **Languages & Frameworks**: JavaScript, React.js, Node.js, Express.js, Next js, Typescript
 - **Databases**: MongoDB, MySQL
-- **Tools & Platforms**: Git, GitHub, Postman, Vercel, Netlify
+- **Tools & Platforms**: Git, GitHub, Postman, Vercel, Netlify, Render, firebase
 
 ## 📬 Let's Connect
 
